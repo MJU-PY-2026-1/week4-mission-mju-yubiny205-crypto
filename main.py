@@ -27,7 +27,7 @@ print(f'리스트: {bucket_list}')
 
 # 6. 도장 깬 맛집을 입력 받아, 리스트에서 삭제
 visited = input("도장 깨기: ")
-bucket_list.remove(v성시isited)
+bucket_list.remove(visited)
 
 #7. 리스트 출력
 print(f'리스트: {bucket_list}')
